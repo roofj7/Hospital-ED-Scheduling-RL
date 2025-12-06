@@ -39,3 +39,11 @@ Custom Gym Environment
 RL models outperformed baseline scheduling strategies in terms of reward and patient waiting time.
 Double-DQN provided more stable convergence compared to DQN.
 (Training logs and plots can be added in future releases.)
+
+# Future Improvements
+
+Hyperparameter tuning
+
+Model deployment & inference dashboard
+
+Integration with real hospital data
